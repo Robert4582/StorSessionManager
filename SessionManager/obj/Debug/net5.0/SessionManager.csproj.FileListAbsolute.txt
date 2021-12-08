@@ -1,0 +1,16 @@
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\bin\Debug\net5.0\SessionManager.exe
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\bin\Debug\net5.0\SessionManager.deps.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\bin\Debug\net5.0\SessionManager.runtimeconfig.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\bin\Debug\net5.0\SessionManager.runtimeconfig.dev.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\bin\Debug\net5.0\SessionManager.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\bin\Debug\net5.0\ref\SessionManager.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\bin\Debug\net5.0\SessionManager.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\obj\Debug\net5.0\SessionManager.csproj.AssemblyReference.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\obj\Debug\net5.0\SessionManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\obj\Debug\net5.0\SessionManager.AssemblyInfoInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\obj\Debug\net5.0\SessionManager.AssemblyInfo.cs
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\obj\Debug\net5.0\SessionManager.csproj.CoreCompileInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\obj\Debug\net5.0\SessionManager.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\obj\Debug\net5.0\ref\SessionManager.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\obj\Debug\net5.0\SessionManager.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\SessionManager\SessionManager\obj\Debug\net5.0\SessionManager.genruntimeconfig.cache
